@@ -1,0 +1,12 @@
+[
+    {
+        "sentence": "My favorite movie is The Lion King. It is about a young lion named Simba_____learns important life lessons.",
+        "blanks": ["who"],
+        "options": ["where", "who", "why", what"]
+    },
+    {
+        "sentence": "The movie has beautiful music and teaches me about _____ and friendship. I enjoy watching it because it is both fun and inspiring.",
+        "blanks": ["bravery"],
+        "options": ["brother", "bravery", "bore"]
+    }
+]
